@@ -1,0 +1,14 @@
+c:\Users\HP\Desktop\EnginDemirog\Kurslar\bin\Debug\net8.0\Kurslar.exe
+c:\Users\HP\Desktop\EnginDemirog\Kurslar\bin\Debug\net8.0\Kurslar.deps.json
+c:\Users\HP\Desktop\EnginDemirog\Kurslar\bin\Debug\net8.0\Kurslar.runtimeconfig.json
+c:\Users\HP\Desktop\EnginDemirog\Kurslar\bin\Debug\net8.0\Kurslar.dll
+c:\Users\HP\Desktop\EnginDemirog\Kurslar\bin\Debug\net8.0\Kurslar.pdb
+c:\Users\HP\Desktop\EnginDemirog\Kurslar\obj\Debug\net8.0\Kurslar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP\Desktop\EnginDemirog\Kurslar\obj\Debug\net8.0\Kurslar.AssemblyInfoInputs.cache
+c:\Users\HP\Desktop\EnginDemirog\Kurslar\obj\Debug\net8.0\Kurslar.AssemblyInfo.cs
+c:\Users\HP\Desktop\EnginDemirog\Kurslar\obj\Debug\net8.0\Kurslar.csproj.CoreCompileInputs.cache
+c:\Users\HP\Desktop\EnginDemirog\Kurslar\obj\Debug\net8.0\Kurslar.dll
+c:\Users\HP\Desktop\EnginDemirog\Kurslar\obj\Debug\net8.0\refint\Kurslar.dll
+c:\Users\HP\Desktop\EnginDemirog\Kurslar\obj\Debug\net8.0\Kurslar.pdb
+c:\Users\HP\Desktop\EnginDemirog\Kurslar\obj\Debug\net8.0\Kurslar.genruntimeconfig.cache
+c:\Users\HP\Desktop\EnginDemirog\Kurslar\obj\Debug\net8.0\ref\Kurslar.dll
